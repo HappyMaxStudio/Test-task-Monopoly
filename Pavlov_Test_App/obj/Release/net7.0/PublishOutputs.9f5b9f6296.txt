@@ -1,0 +1,7 @@
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\publish\Boxes.xml
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\publish\Pallets.xml
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\publish\Pavlov_Test_App.exe
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\publish\Pavlov_Test_App.dll
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\publish\Pavlov_Test_App.deps.json
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\publish\Pavlov_Test_App.runtimeconfig.json
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\publish\Pavlov_Test_App.pdb

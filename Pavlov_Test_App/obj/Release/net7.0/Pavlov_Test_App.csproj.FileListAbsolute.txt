@@ -1,0 +1,17 @@
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\Pavlov_Test_App.exe
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\Pavlov_Test_App.deps.json
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\Pavlov_Test_App.runtimeconfig.json
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\Pavlov_Test_App.dll
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\Pavlov_Test_App.pdb
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\obj\Release\net7.0\Pavlov_Test_App.csproj.AssemblyReference.cache
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\obj\Release\net7.0\Pavlov_Test_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\obj\Release\net7.0\Pavlov_Test_App.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\obj\Release\net7.0\Pavlov_Test_App.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\obj\Release\net7.0\Pavlov_Test_App.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\obj\Release\net7.0\Pavlov_Test_App.dll
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\obj\Release\net7.0\refint\Pavlov_Test_App.dll
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\obj\Release\net7.0\Pavlov_Test_App.pdb
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\obj\Release\net7.0\Pavlov_Test_App.genruntimeconfig.cache
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\obj\Release\net7.0\ref\Pavlov_Test_App.dll
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\Boxes.xml
+C:\Users\Vladimir\Desktop\Projects\Тестовые\Pavlov_Test_App\bin\Release\net7.0\Pallets.xml
